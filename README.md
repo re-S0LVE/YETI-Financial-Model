@@ -1,4 +1,4 @@
-# YETI Holdings — 3-Statement Financial Model & DCF Valuation w/ AI Tooling Usage
+# ⚠️ WORK IN PROCESS ⚠️ YETI Holdings — 3-Statement Financial Model & DCF Valuation w/ AI Tooling Usage
 
 ## Overview
 A fully integrated 3-statement financial model built in Excel for YETI Holdings, Inc. (NYSE: YETI), covering 5 years of historical data (2021–2025) and a 5-year forecast (2026–2030) with a discounted cash flow valuation. Built independently using YETI's public 10-K filings, with AI tooling (Claude by Anthropic) used throughout to audit formula logic, catch errors, and pressure-test assumptions across all 590 formulas and four linked sheets, and (ChatGPT by OpenAI) for troubleshooting issues, QA, & refining knowledge as I built it.
