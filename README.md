@@ -1,4 +1,4 @@
-# ⚠️ WORK IN PROCESS 
+# ⚠️ Work In Progress 
 YETI Holdings — 3-Statement Financial Model & DCF Valuation w/ AI Tooling Usage
 
 ## Overview
