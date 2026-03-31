@@ -15,19 +15,6 @@ A fully integrated 3-statement financial model built in Excel for YETI Holdings,
 
 ---
 
-## Valuation Output
-
-| Metric | Value |
-|---|---|
-| WACC | 9.0% |
-| Terminal Growth Rate | 2.5% |
-| Implied Share Price (Gordon Growth) | $41.12 |
-| Implied Share Price (EV/EBITDA) | $46.88 |
-| Current Price (as of model date) | $33.50 |
-| Implied Upside | ~22.7% |
-
----
-
 ## How I Used AI
 Rather than using AI to build the model for me, I used it as an auditing and learning tool:
 
